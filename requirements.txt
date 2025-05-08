@@ -1,8 +1,8 @@
 numpy
 streamlit
 Pillow
-rembg
 pilgram2
 opencv-python
-onnxruntime
+rembg
 opencv-python-headless
+onnxruntime
