@@ -1,0 +1,6 @@
+numpy
+streamlit
+Pillow
+rembg
+pilgram2
+opencv-python
